@@ -1,9 +1,9 @@
 {
-    "title": "Recipe Search",
-    "description": "Full text and semantic search on 5,000 recipes.",
+    "title": "Busca de Receitas",
+    "description": "Busca por texto completo e busca semântica em 5.000 receitas.",
     "databases": {
       "5k-recipes": {
-        "source": "Recipe Dataset from Epicurious",
+        "source": "Conjunto de Dados de Receitas do Epicurious",
         "source_url": "https://github.com/josephrmartinez/recipe-dataset",
         "license": "CC BY-SA 3.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
