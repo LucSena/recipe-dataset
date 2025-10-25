@@ -13,6 +13,12 @@ Este guia explica como traduzir todo o dataset de receitas para Português Brasi
 Instale as bibliotecas Python necessárias:
 
 ```bash
+pip install -r requirements.txt
+```
+
+Ou instale manualmente:
+
+```bash
 pip install deep-translator pandas tqdm
 ```
 

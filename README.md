@@ -1,6 +1,8 @@
 # Conjunto de dados de receitas gratuito, simples e aberto
 Conjunto de dados simples de receitas com título do prato, ingredientes e instruções.
 
+> **🇧🇷 Tradução PT-BR:** Veja [TRADUCAO.md](TRADUCAO.md) para instruções sobre como traduzir o dataset completo para Português Brasileiro.
+
 ### Tutorial
 Siga o [tutorial](tutorial.md) para implementar busca semântica neste conjunto de dados usando Datasette
 
