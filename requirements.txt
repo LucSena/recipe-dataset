@@ -1,0 +1,4 @@
+# Requirements for translating the recipe dataset to PT-BR
+deep-translator>=1.11.0
+pandas>=2.0.0
+tqdm>=4.65.0
